@@ -29,5 +29,7 @@
 ![](images/delete.PNG)
 
 
-% author - Jiayu Li (<li000448@algonquinlive.com>)
-% date - 2022-04
+---
+author: Jiayu Li (<li000448@algonquinlive.com>)
+date: 2022-04
+---
