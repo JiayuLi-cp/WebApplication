@@ -16,15 +16,15 @@
 
 
 ## Images examples
-### _Main page_
+## _Main page_
 ![](images/WebProject.PNG)
-### _View page_
+## _View page_
 ![](images/view.PNG)
-### _Insert page_
+## _Insert page_
 ![](images/insert.PNG)
-### _update page_
+## _update page_
 ![](images/update.PNG)
-### _delete page_
+## _delete page_
 ![](images/delete.PNG)
 
 
