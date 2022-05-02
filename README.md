@@ -29,6 +29,5 @@
 
 
 ---
-- author: Jiayu Li (<li000448@algonquinlive.com>)
-- date: 2022-04
-...
+- Author: Jiayu Li (<li000448@algonquinlive.com>)
+- Date: 2022-04
