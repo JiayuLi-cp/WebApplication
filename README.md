@@ -9,11 +9,11 @@
 -	Created and troubleshoot database connections using PHP, accept user data, and save it to a database, recall data from a database and display it to the user. 
 
 ## Tech
-- [HTML]
-- [PHP]
-- [CSS]
-- [JAVASCRIPT]
-- [MARKDOWN]
+- [x] HTML
+- [x] PHP
+- [x] CSS
+- [x] JAVASCRIPT
+- [x] MARKDOWN
 
 
 ## Images examples
@@ -30,6 +30,6 @@
 
 
 ---
-author: Jiayu Li (<li000448@algonquinlive.com>)
-date: 2022-04
----
+- author: Jiayu Li (<li000448@algonquinlive.com>)
+- date: 2022-04
+...
